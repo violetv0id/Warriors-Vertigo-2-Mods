@@ -6,8 +6,7 @@ this can range from sily mods, to scary mods, and to even sometimes difficult mo
 Melonloader is REQUIRED for any mods that you find here, or for until i make a custom mod loader for Vertigo games
 (although this may come much later, or not at all.)
 
-also keep in mind that im taking mod requests right now so if you want to ask for a mod, join the Vertigo 2 discord and either dm me or ping me:
-https://discord.gg/hSv9aAhAcN
+[vertigo 2 discord](https://discord.gg/nGjNJWZtef)
 
 there is currently a few mods (if you cant find it in the releases tab, it is still wip and unreleased.)
 
